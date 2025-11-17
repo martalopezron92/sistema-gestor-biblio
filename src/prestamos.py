@@ -1,4 +1,4 @@
-def prestamos(libro, usuario, fecha_prestamo, fecha_devolucion):
+def prestamos(libro, usuario, fecha_prestamo, fecha_devolucion, isbn):
     """
     Crea un diccionario que representa un préstamo de libro con el libro prestado, el usuario,
     la fecha de préstamo y la fecha de devolución.
