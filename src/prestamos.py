@@ -11,6 +11,8 @@ def prestamos(libro, usuario, fecha_prestamo, fecha_devolucion, isbn):
 
     Retorna:
     dict: Un diccionario con las claves 'libro', 'usuario', 'fecha_prestamo' y 'fecha_devolucion'.
+    pequeño cambio
+    
     """
     return {
         'libro': libro,
